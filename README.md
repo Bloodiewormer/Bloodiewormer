@@ -1,5 +1,5 @@
 ### Hi there 👋
-![GitHub Logo](https://github.com/Bloodiewormer/repository/Bloodiewormer/banner.png)
+![Banner](https://github.com/Bloodiewormer/repository/Bloodiewormer/banner.png)
 
 
 <!--
