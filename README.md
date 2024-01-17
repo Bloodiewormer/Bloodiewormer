@@ -1,6 +1,5 @@
 ### Hi there 👋
-![Banner](https://github.com/Bloodiewormer/repository/Bloodiewormer/banner.png)
-
+![Banner](https://github.com/Bloodiewormer/Bloodiewormer/blob/main/Banner.png)
 
 <!--
 **Bloodiewormer/Bloodiewormer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
