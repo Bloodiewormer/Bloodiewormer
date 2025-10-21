@@ -3,7 +3,7 @@
 <p align="center">
     <b>Welcome to my page!</b><br><br>
     <i>
-        I'm Bloodiewormer (Nickname), and I'm currently learning C++.<br>
+        I'm Bloodiewormer (Nickname), and I'm currently learning Java and python.<br>
 I'm a passionate computer enthusiast interest in hardware and gaming. I'm dedicated to exploring the intricate relationship between software and hardware. My goal is to contribute to technological innovation by merging my expertise in hardware with my gaming passion. Always eager to learn and grow, my GitHub profile showcases my projects and contributions to the tech community. Let's connect and drive positive change in the world of technology!.<br>
     </i><br>
   <b>
